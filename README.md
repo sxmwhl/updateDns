@@ -22,12 +22,11 @@
 
 ##文件说明
 
-* /
-*    ip.txt 最新外网ip地址
-*    oldIp.txt 上一次ip地址
-*    status.txt 更新状态，可查看此文件了解脚本执行情况
-*    updateDns.sh 执行更新脚本
-*    README.md 本文件
+*    `ip.txt` 最新外网ip地址
+*    `oldIp.txt` 上一次ip地址
+*    `status.txt` 更新状态，可查看此文件了解脚本执行情况
+*    `updateDns.sh` 执行更新脚本
+*    `README.md` 本文件
    
 ##脚本信息
  *  版本：v1.0
