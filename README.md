@@ -9,7 +9,7 @@
 
 ##使用方法
 
-* 1、登录 http://www.3dant.cn 注册申请一个固定Dns地址；
+* 1、登录 http://www.3dant.cn 注册申请一个固定URL地址；
 * 2、将本文件夹上传至设备，并定时运行updateDns.sh脚本。
 
 参考如下crontab命令行：
