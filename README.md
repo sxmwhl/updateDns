@@ -14,11 +14,12 @@
 
 参考如下crontab命令行：
 
-* `*/20 * * * * /home/updateDns.sh 1 ddfd8XXXX`
+* `*/20 * * * * /home/updateDns.sh 1 ddfd8XXXX 80`
 * `*/20 * * * * `表示20分钟执行一次脚本；
 * `/home/updateDns.sh` 为脚本位置；
-* `1` 是固定Dns的ID
-* `ddfd8XXXX` 是固定Dns的密码
+* `1` 是固定Dns的ID 必填
+* `ddfd8XXXX` 是固定Dns的密码 必填
+* `80` 绑定的端口 默认为80 可选
 
 ##文件说明
 
